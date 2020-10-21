@@ -3,7 +3,7 @@ By Vignesh K
 
 A Machine Learning project powered by IBM Cloud & SmartInternz.
 
-`**Objective:**`
+`Objective:`
 
         	To analyse, understand, and predict whether a customer leaves or stays in a company that provides services.
   
@@ -13,16 +13,18 @@ A Machine Learning project powered by IBM Cloud & SmartInternz.
   
         	To build a flask application to interact with users and make predicitons dynamically.
   
-`**Technologies Used:**`
+`Technologies Used:`
  				
-		Python - Data Pre-Processing, ML Models, Deployment
+		Python - Data Visualization, Data Pre-Processing, Feature Engineering, ML Models, Deployment
 				
 		Flask Framework - Backend for UI, Payload Scoring, and Deployment Maintenance
 				
 		HTML - UI - Form Creation & Output Display
 		
-`**References:**`
+`References:`
 
 		Scoring Endpoint: https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/a77fd05b-67a5-40d1-8ab1-17e160b261c8/predictions?version=2020-10-20
+		
+		Project Demonstration Video Link: https://drive.google.com/file/d/1zsHlecIcB76JRT8yOepPMlURsCig0nYi/view?usp=sharing
 		
 		
